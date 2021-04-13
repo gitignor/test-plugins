@@ -1,0 +1,22 @@
+.todo-form {
+    font-size: 18px;
+    padding-top: 10px;
+}
+
+.todo-form input {
+    padding: 5px;
+}
+
+.todo-form .full {
+    width: 100%;
+}
+
+.todo-form label {
+    display: block;
+    padding-bottom: 10px;
+    font-weight: 700;
+}
+
+.todo-form .form-group {
+    margin-top: 15px;
+}
